@@ -1,3 +1,3 @@
-#RFP application
+RFP application
 ---
 More information soon
